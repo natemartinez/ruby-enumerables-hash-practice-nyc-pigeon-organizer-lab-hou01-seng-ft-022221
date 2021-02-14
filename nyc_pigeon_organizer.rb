@@ -1,6 +1,6 @@
 
 def nyc_pigeon_organizer(data)
-final_results
+final_results = data.each
 
 
 
