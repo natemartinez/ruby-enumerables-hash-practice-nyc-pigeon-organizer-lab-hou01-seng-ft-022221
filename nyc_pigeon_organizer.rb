@@ -1,3 +1,3 @@
 def nyc_pigeon_organizer(data)
-hash.each_with_object({}) do |(k, v) a
+hash.each_with_object({}) do |(k, v), a|
 end
